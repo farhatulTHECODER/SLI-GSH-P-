@@ -1,2 +1,2 @@
-# SLI-GSH-P-
-this is the simple angry bird game made by MD.FARHATUL HUSSAIN SK.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
